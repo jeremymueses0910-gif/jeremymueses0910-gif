@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=garamond&size=32&duration=1000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Alejandro+M.+Tineo;Front-End+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=garamond&size=32&duration=1000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=JEREMY+MUESES;Front-End+Developer" />
 </h1>
 
 <p align="center">
@@ -38,23 +38,17 @@ Me gusta hacer cosas **simples, claras y bien hechas**.
 
 ---
 
-##  GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandrotineo2020&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 ##  Redes
 
 <p align="center">
-  <a href="https://www.instagram.com/alexxandro_dev">
+  <a href="https://www.instagram.com/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=00E5FF">
   </a>
-  <a href="https://www.linkedin.com/in/alejandro-tineo-a69181347/">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=00E5FF">
-  </a>
+ 
 </p>
 
 
