@@ -58,6 +58,6 @@ Me gusta hacer cosas **simples, claras y bien hechas**.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1500&pause=500&color=FF0000&background=000000&center=true&vCenter=true&width=650&lines=Alejandro+M.+Tineo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1500&pause=500&color=FF0000&background=000000&center=true&vCenter=true&width=650&lines=JEREMY.+MUESES" />
 </p>
 
